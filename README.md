@@ -34,20 +34,3 @@ Measuring the utility after replacing 60% of the check-ins with a 15 step random
 * scikit-learn
 
 It is recommended to install [Anaconda](https://www.continuum.io/downloads), a python data science distribution, which includes all the above packages.
-
-* gensim
-* joblib
-
-## Citing
-If you find walk2friends useful in your research, please cite the following paper:<br>
-> @inproceedings{BHPZ17,<br>
->     author = {Michael Backes and Mathias Humbert and Jun Pang and Yang Zhang},<br>
->     title = {walk2friends: Inferring Social Links from Mobility Profiles.},<br>
->     booktitle = {Proceedings of the 24th ACM SIGSAC Conference on Computer and Communications Security (CCS)},<br>
->     year = {2017},<br>
->     pages = {1943-1957},<br>
->     publisher = {ACM}<br>
->  }<br>
-
-## Miscellaneous
-If you have any questions about the code and/or the algorithm, please send an email to <yang.zhang@cispa.saarland>.
